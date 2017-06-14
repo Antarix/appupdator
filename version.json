@@ -1,11 +1,11 @@
 
 {
-  "latestVersion": "2.0.3",
-  "latestVersionCode": "4",
+  "latestVersion": "2.0.4",
+  "latestVersionCode": "5",
   "url": "http://192.168.10.52:9876/test.apk",
   "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
+    "- Some bug fixed",
+    "- Added new date format",
     "- Bug fixes"
   ]
 }
